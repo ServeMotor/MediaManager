@@ -14,8 +14,9 @@
 [BUSINESS INSIDER](http://www.businessinsider.com/)
 
 [BUZZFEED](http://www.buzzfeed.com/)
-CBS NEWS
-CBS NEWS LOCAL
+
+[CBS NEWS](http://www.cbsnews.com/)
+
 C-SPAN
 CHICAGO SUN-TIMES
 CHICAGO TRIB
