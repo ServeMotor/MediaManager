@@ -4,7 +4,7 @@ Managing online news subscriptions
 Starting research on tools for managing online news sources 
 ## Example of a Digital Content Management company
 Company : Ebsco 
-URL: https://www.ebsco.com/ja-jp/about
+URL: https://www.ebsco.com/about
 
 ## Example of a University Library
 UK University Library
