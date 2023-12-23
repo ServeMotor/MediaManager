@@ -5,7 +5,7 @@
 
 [AXIOS](https://www.axios.com/)
 
-[BILLBOARD](www.billboard.com)
+[BILLBOARD](https://www.billboard.com)
 
 [BOSTON GLOBE](http://www.boston.com)
 
@@ -39,7 +39,7 @@
 
 [ENT WEEKLY](http://www.ew.com/ew/)
 
-[FINANCIAL TIMES](www.ft.com)
+[FINANCIAL TIMES](https://www.ft.com)
 
 FIVETHIRTYEIGHT
 FORBES
