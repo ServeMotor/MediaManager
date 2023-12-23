@@ -1,7 +1,7 @@
 ## USA Media Sites
-(ABCNEWS)[http://www.abcnews.com]
+[ABCNEWS](http://www.abcnews.com)
 
-ATLANTIC 
+[ATLANTIC](www.theatlantic.com)
 AXIOS
 BBC
 BILLBOARD
