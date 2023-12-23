@@ -7,7 +7,7 @@
 
 [BILLBOARD](www.billboard.com)
 
-[BOSTON GLOBE](http://www.boston.com/globe/)
+[BOSTON GLOBE](http://www.boston.com)
 
 BOSTON HERALD
 BREITBART
