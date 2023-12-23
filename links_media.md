@@ -27,13 +27,18 @@
 
 [CHRISTIAN SCIENCE](http://www.csmonitor.com/)
 
-CNBC
-CNN
+[CNBC](http://www.cnbc.com/)
+
+[CNN](http://www.cnn.com/)
+
 DAILY BEAST
-DAILY CALLER
+
 DEADLINE HOLLYWOOD
+
 E!
+
 ENT WEEKLY
+
 FINANCIAL TIMES
 FIVETHIRTYEIGHT
 FORBES
