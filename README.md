@@ -1,5 +1,5 @@
 # MediaManager
-Managing online news subscriptions
+This is a project to assess how organizations manage online news subscriptions for their users.
 
 Starting research on tools for managing online news sources 
 ## Example of a Digital Content Management company
