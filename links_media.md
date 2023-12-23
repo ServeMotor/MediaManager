@@ -63,17 +63,17 @@
 
 [MEDIAITE](https://www.mediaite.com)
 
-[MOTHER JONES]()
+[MOTHER JONES](http://www.motherjones.com/)
 
-[NATION]()
+[NATION](http://www.thenation.com/)
 
-[NATIONAL REVIEW]()
+[NATIONAL REVIEW](http://www.nationalreview.com/)
 
-[NBC NEWS]()
+[NBC NEWS](http://www.nbcnews.com/)
 
-[NEW REPUBLIC]()
+[NEW REPUBLIC](http://www.thenewrepublic.com/)
 
-[NEW YORK]()
+[NEW YORK](http://nymag.com/)
 
 [NY DAILY NEWS]()
 
