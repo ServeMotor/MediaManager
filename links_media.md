@@ -9,10 +9,11 @@
 
 [BOSTON GLOBE](http://www.boston.com)
 
-BOSTON HERALD
-BREITBART
-BUSINESS INSIDER
-BUZZFEED
+[BOSTON HERALD](http://bostonherald.com/news)
+
+[BUSINESS INSIDER](http://www.businessinsider.com/)
+
+[BUZZFEED](http://www.buzzfeed.com/)
 CBS NEWS
 CBS NEWS LOCAL
 C-SPAN
