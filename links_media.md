@@ -2,8 +2,9 @@
 [ABCNEWS](http://www.abcnews.com)
 
 [ATLANTIC](www.theatlantic.com)
-AXIOS
-BBC
+
+[AXIOS]
+
 BILLBOARD
 BOSTON GLOBE
 BOSTON HERALD
@@ -62,6 +63,7 @@ SEMAFOR
 SKY NEWS LIVE...
 SMOKING GUN
 TMZ
+[UK] [BBC](www.bbc.com)
 [UK] DAILY MAIL FEED
 [UK] DAILY MIRROR
 [UK] EXPRESS
