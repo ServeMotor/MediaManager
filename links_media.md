@@ -31,15 +31,16 @@
 
 [CNN](http://www.cnn.com/)
 
-DAILY BEAST
+[DAILY BEAST](http://thedailybeast.com/)
 
-DEADLINE HOLLYWOOD
+[DEADLINE HOLLYWOOD](http://www.deadline.com/hollywood/)
 
-E!
+[E!](http://www.eonline.com/index.jsp)
 
-ENT WEEKLY
+[ENT WEEKLY](http://www.ew.com/ew/)
 
-FINANCIAL TIMES
+[FINANCIAL TIMES](www.ft.com)
+
 FIVETHIRTYEIGHT
 FORBES
 FOXNEWS
