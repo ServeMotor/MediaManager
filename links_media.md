@@ -17,7 +17,8 @@
 
 [CBS NEWS](http://www.cbsnews.com/)
 
-C-SPAN
+[C-SPAN](https://www.c-span.org/)
+
 CHICAGO SUN-TIMES
 CHICAGO TRIB
 CHRISTIAN SCIENCE
