@@ -23,8 +23,10 @@
 
 [CHICAGO SUN-TIMES]()
 
-CHICAGO TRIB
-CHRISTIAN SCIENCE
+[CHICAGO TRIB](http://www.chicagotribune.com/)
+
+[CHRISTIAN SCIENCE](http://www.csmonitor.com/)
+
 CNBC
 CNN
 DAILY BEAST
