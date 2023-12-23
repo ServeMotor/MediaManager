@@ -75,36 +75,35 @@
 
 [NEW YORK](http://nymag.com/)
 
-[NY DAILY NEWS]()
+[NY DAILY NEWS](http://www.nydailynews.com/)
 
-[NY POST]()
+[NY POST](http://www.nypost.com/)
 
-[NY TIMES WIRE]()
+[NY TIMES WIRE](http://www.nytimes.com/timeswire/)
 
-[NEW YORKER]()
+[NEW YORKER](http://www.newyorker.com/)
 
-[PEOPLE]()
+[PEOPLE](http://www.newyorker.com/)
 
-[POLITICO]()
+[POLITICO](http://www.politico.com/)
 
-[REAL CLEAR POLITICS]()
+[REAL CLEAR POLITICS](http://realclearpolitics.com/)
 
-[REASON]()
+[REASON](https://reason.org/)
 
-[ROLLING STONE]()
+[ROLLING STONE](http://www.rollingstone.com/)
 
-[SALON]()
+[SALON](http://www.salon.com/)
 
-[SAN FRAN CHRON]()
+[SAN FRAN CHRON](http://www.sfgate.com/chronicle/)
 
-[SEMAFOR]()
+[SEMAFOR](https://www.semafor.com/)
 
-[SKY NEWS LIVE]()
+[SMOKING GUN](http://thesmokinggun.com/)
 
-[SMOKING GUN]()
+[TMZ](http://www.tmz.com/)
 
-[TMZ]()
-
+### UK News
 [UK] [BBC](www.bbc.com)
 
 [UK] [DAILY MAIL FEED]()
@@ -121,6 +120,9 @@
 
 [UK] [SUN]()
 
+[SKY NEWS LIVE]()
+
+### USA News
 [US NEWS]()
 
 [USA TODAY]()
