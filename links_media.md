@@ -106,71 +106,71 @@
 ### UK News
 [UK] [BBC](www.bbc.com)
 
-[UK] [DAILY MAIL FEED]()
+[UK] [DAILY MAIL FEED](http://www.dailymail.co.uk/news/headlines/index.html)
 
-[UK] [DAILY MIRROR]()
+[UK] [DAILY MIRROR](http://www.mirror.co.uk/)
 
-[UK] [EXPRESS]()
+[UK] [EXPRESS](http://www.express.co.uk/)
 
-[UK] [GUARDIAN]()
+[UK] [GUARDIAN](http://www.guardian.co.uk/world)
 
-[UK] [INDEPENDENT]()
+[UK] [INDEPENDENT](http://www.independent.co.uk/)
 
-[UK] [METRO]()
+[UK] [METRO](https://metro.co.uk/)
 
-[UK] [SUN]()
+[UK] [SUN](http://www.thesun.co.uk/)
 
-[SKY NEWS LIVE]()
+[SKY NEWS LIVE](https://news.sky.com/watch-live)
 
 ### USA News
-[US NEWS]()
+[US NEWS](http://www.usnews.com/usnews/home.htm)
 
-[USA TODAY]()
+[USA TODAY](http://www.usatoday.com/)
 
-[VANITY FAIR]()
+[VANITY FAIR](http://www.vanityfair.com/)
 
-[VARIETY]()
+[VARIETY](http://www.variety.com/)
 
-[WALL STREET JOURNAL]()
+[WALL STREET JOURNAL](http://online.wsj.com/home-page)
 
-[WASH EXAMINER]()
+[WASH EXAMINER](http://www.washingtonexaminer.com/)
 
-[WASH POST]()
+[WASH POST](http://www.washingtonpost.com/)
 
-[WASH TIMES]()
+[WASH TIMES](http://www.washingtontimes.com/)
 
-[AGENCE FRANCE-PRESSE]()
+[AGENCE FRANCE-PRESSE](http://www.france24.com/en/timeline/global/)
 
-[AP TOP]()
+[AP TOP](https://apnews.com/)
 
-[AP RADIO]()
+[AP RADIO](http://player.streamguys.com/apnews/sgplayer/player.php)
 
-[BLOOMBERG]()
+[BLOOMBERG](http://www.bloomberg.com/?pid=20601087&sid=a0giIbmAzkss&pos=7)
 
-[DEUTSCHE PRESSE-AGENTUR]()
+[DEUTSCHE PRESSE-AGENTUR](http://www.dpa-international.com/news/international/)
 
-[INTERFAX]()
+[INTERFAX](http://www.interfax.com/news.asp)
 
-[ITAR-TASS]()
+[ITAR-TASS](http://www.itar-tass.com/en/)
 
-[KYODO]()
+[KYODO](https://english.kyodonews.net/)
 
-[MCCLATCHY [DC]]()
+[MCCLATCHY [DC]](http://www.mcclatchydc.com/)
 
-[NHK]()
+[NHK](https://www3.nhk.or.jp/nhkworld/en/news/)
 
-[PRAVDA]()
+[PRAVDA](http://www.pravdareport.com/world/)
 
-[PRESS TRUST INDIA]()
+[PRESS TRUST INDIA](http://www.ptinews.com/)
 
-[REUTERS]()
+[REUTERS](http://www.reuters.com/)
 
-[REUTERS POLITICS]()
+[REUTERS POLITICS](http://www.reuters.com/news/archive/politicsNews?date=today)
 
-[REUTERS WORLD]()
+[REUTERS WORLD](http://www.reuters.com/news/archive/worldNews?date=today)
 
-[XINHUA]()
+[XINHUA](http://www.xinhuanet.com/english/world/index.htm)
 
-[UPI]()
+[UPI](http://www.upi.com/NewsTrack/)
 
-[YONHAP]()
+[YONHAP](http://english.yonhapnews.co.kr/)
