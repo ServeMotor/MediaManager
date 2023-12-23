@@ -17,9 +17,12 @@
 
 [CBS NEWS](http://www.cbsnews.com/)
 
+[CBS NEWS LOCAL](https://www.cbsnews.com/cbslocal/)
+
 [C-SPAN](https://www.c-span.org/)
 
-CHICAGO SUN-TIMES
+[CHICAGO SUN-TIMES]()
+
 CHICAGO TRIB
 CHRISTIAN SCIENCE
 CNBC
