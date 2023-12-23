@@ -59,9 +59,9 @@
 
 [LA TIMES](http://www.latimes.com/)
 
-[MARKETWATCH]()
+[MARKETWATCH](https://www.marketwatch.com/)
 
-[MEDIAITE]()
+[MEDIAITE](https://www.mediaite.com)
 
 [MOTHER JONES]()
 
