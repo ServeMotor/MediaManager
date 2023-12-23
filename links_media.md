@@ -41,13 +41,11 @@
 
 [FINANCIAL TIMES](https://www.ft.com)
 
-[FIVETHIRTYEIGHT]()
+[FIVETHIRTYEIGHT](https://fivethirtyeight.com/)
 
-[FORBES]()
+[FORBES](http://www.forbes.com/)
 
-[FREE PRESS]()
-
-[HILL JUST IN]()
+[HILL JUST IN](http://thehill.com/news)
 
 [H'WOOD REPORTER]()
 
