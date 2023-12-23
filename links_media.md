@@ -1,5 +1,5 @@
 ## USA Media Sites
-ABCNEWS[http://www.abcnews.com]
+(ABCNEWS)[http://www.abcnews.com]
 
 ATLANTIC 
 AXIOS
