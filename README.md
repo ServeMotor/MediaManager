@@ -19,4 +19,4 @@ UK Organization
 British Council (Youtube) https://www.youtube.com/watch?v=2QU-ugS87r8
 
 ## Social Media
-On X, formerly known as Twitter, there are writers and sources. [@federalreserve](https://twitter.com/federalreserve)for US economy events. 
+On X, formerly known as Twitter, there are writers and sources. [@federalreserve](https://twitter.com/federalreserve) for US economy events. 
