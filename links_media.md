@@ -1,9 +1,9 @@
 ## USA Media Sites
 **English language Media**
 
-[ABCNEWS](http://www.abcnews.com)
+1. [ABCNEWS](http://www.abcnews.com)
 
-[ATLANTIC](www.theatlantic.com)
+2. [ATLANTIC](www.theatlantic.com)
 
 [AXIOS](https://www.axios.com/)
 
