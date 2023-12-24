@@ -1,7 +1,7 @@
 ## USA Media Sites
 **English language Media**
 
-These are some of the links that have been listed on the [Drudge Report](https://www.drudgereport.com/), a daily political headline website in the US. 
+These are some of the links that have been listed on the [Drudge Report](https://www.drudgereport.com/), a daily political headline website in the US. I took out conservative news sources, but otherwise its a good selection of media sites.
 
 1. [ABCNEWS](http://www.abcnews.com)
 2. [ATLANTIC](www.theatlantic.com)
