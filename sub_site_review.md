@@ -3,6 +3,7 @@ In this case, it will be links to the Wall Street Journal Membership/Subscriptio
 
 ## Links
 **WSJ**
+
 [Individual Subscriptions](https://store.wsj.com/shop)
 
 3,800+ companies subscribe to employee subscriptions which is 10+ employees
