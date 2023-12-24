@@ -8,4 +8,4 @@
   - [Crain's Detroit Business](https://www.crainsdetroit.com/)
  
 - Technology
-- [Wired](https://www.wired.com)
+  - [Wired](https://www.wired.com)
