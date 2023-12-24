@@ -2,6 +2,8 @@
 
 This is a project to assess how organizations manage online news subscriptions for their users. It is just lists of links for sites, but these can be used to do research on how media companies market their content via subscriptions, api and other methods to drive revenue.
 
+MediaManager is a collection of Markdown pages with links which can be used for online research.
+
 Starting research on tools for managing online news sources 
 ## Example of a Digital Content Management company
 Company : Ebsco 
