@@ -2,46 +2,26 @@
 **English language Media**
 
 1. [ABCNEWS](http://www.abcnews.com)
-
 2. [ATLANTIC](www.theatlantic.com)
-
-[AXIOS](https://www.axios.com/)
-
-[BILLBOARD](https://www.billboard.com)
-
-[BOSTON GLOBE](http://www.boston.com)
-
-[BOSTON HERALD](http://bostonherald.com/news)
-
-[BUSINESS INSIDER](http://www.businessinsider.com/)
-
-[BUZZFEED](http://www.buzzfeed.com/)
-
-[CBS NEWS](http://www.cbsnews.com/)
-
-[CBS NEWS LOCAL](https://www.cbsnews.com/cbslocal/)
-
-[C-SPAN](https://www.c-span.org/)
-
-[CHICAGO SUN-TIMES]()
-
-[CHICAGO TRIB](http://www.chicagotribune.com/)
-
-[CHRISTIAN SCIENCE](http://www.csmonitor.com/)
-
-[CNBC](http://www.cnbc.com/)
-
-[CNN](http://www.cnn.com/)
-
-[DAILY BEAST](http://thedailybeast.com/)
-
-[DEADLINE HOLLYWOOD](http://www.deadline.com/hollywood/)
-
-[E!](http://www.eonline.com/index.jsp)
-
-[ENT WEEKLY](http://www.ew.com/ew/)
-
-[FINANCIAL TIMES](https://www.ft.com)
+3. [AXIOS](https://www.axios.com/)
+4. [BILLBOARD](https://www.billboard.com)
+5. [BOSTON GLOBE](http://www.boston.com)
+6. [BOSTON HERALD](http://bostonherald.com/news)
+7. [BUSINESS INSIDER](http://www.businessinsider.com/)
+8. [BUZZFEED](http://www.buzzfeed.com/)
+9. [CBS NEWS](http://www.cbsnews.com/)
+10. [CBS NEWS LOCAL](https://www.cbsnews.com/cbslocal/)
+11. [C-SPAN](https://www.c-span.org/)
+12. [CHICAGO SUN-TIMES]()
+13. [CHICAGO TRIB](http://www.chicagotribune.com/)
+14. [CHRISTIAN SCIENCE](http://www.csmonitor.com/)
+15. [CNBC](http://www.cnbc.com/)
+16. [CNN](http://www.cnn.com/)
+17. [DAILY BEAST](http://thedailybeast.com/)
+18. [DEADLINE HOLLYWOOD](http://www.deadline.com/hollywood/)
+19. [E!](http://www.eonline.com/index.jsp)
+20. [ENT WEEKLY](http://www.ew.com/ew/)
+21. [FINANCIAL TIMES](https://www.ft.com)
 
 [FIVETHIRTYEIGHT](https://fivethirtyeight.com/)
 
