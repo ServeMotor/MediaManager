@@ -12,7 +12,7 @@
 9. [CBS NEWS](http://www.cbsnews.com/)
 10. [CBS NEWS LOCAL](https://www.cbsnews.com/cbslocal/)
 11. [C-SPAN](https://www.c-span.org/)
-12. [CHICAGO SUN-TIMES]()
+12. [CHICAGO SUN-TIMES](https://chicago.suntimes.com/)
 13. [CHICAGO TRIB](http://www.chicagotribune.com/)
 14. [CHRISTIAN SCIENCE](http://www.csmonitor.com/)
 15. [CNBC](http://www.cnbc.com/)
@@ -22,137 +22,76 @@
 19. [E!](http://www.eonline.com/index.jsp)
 20. [ENT WEEKLY](http://www.ew.com/ew/)
 21. [FINANCIAL TIMES](https://www.ft.com)
-
-[FIVETHIRTYEIGHT](https://fivethirtyeight.com/)
-
-[FORBES](http://www.forbes.com/)
-
-[HILL JUST IN](http://thehill.com/news)
-
-[H'WOOD REPORTER](http://www.hollywoodreporter.com/)
-
-[HUFFINGTON POST](http://www.huffingtonpost.com/)
-
-[INTERCEPT](https://firstlook.org/theintercept/)
-
-[JERUSALEM POST](http://www.jpost.com/)
-
-[LA DAILY NEWS](http://www.dailynewslosangeles.com/)
-
-[LA TIMES](http://www.latimes.com/)
-
-[MARKETWATCH](https://www.marketwatch.com/)
-
-[MEDIAITE](https://www.mediaite.com)
-
-[MOTHER JONES](http://www.motherjones.com/)
-
-[NATION](http://www.thenation.com/)
-
-[NATIONAL REVIEW](http://www.nationalreview.com/)
-
-[NBC NEWS](http://www.nbcnews.com/)
-
-[NEW REPUBLIC](http://www.thenewrepublic.com/)
-
-[NEW YORK](http://nymag.com/)
-
-[NY DAILY NEWS](http://www.nydailynews.com/)
-
-[NY POST](http://www.nypost.com/)
-
-[NY TIMES WIRE](http://www.nytimes.com/timeswire/)
-
-[NEW YORKER](http://www.newyorker.com/)
-
-[PEOPLE](http://www.newyorker.com/)
-
-[POLITICO](http://www.politico.com/)
-
-[REAL CLEAR POLITICS](http://realclearpolitics.com/)
-
-[REASON](https://reason.org/)
-
-[ROLLING STONE](http://www.rollingstone.com/)
-
-[SALON](http://www.salon.com/)
-
-[SAN FRAN CHRON](http://www.sfgate.com/chronicle/)
-
-[SEMAFOR](https://www.semafor.com/)
-
-[SMOKING GUN](http://thesmokinggun.com/)
-
-[TMZ](http://www.tmz.com/)
+22. [FIVETHIRTYEIGHT](https://fivethirtyeight.com/)
+23. [FORBES](http://www.forbes.com/)
+24. [HILL JUST IN](http://thehill.com/news)
+25. [H'WOOD REPORTER](http://www.hollywoodreporter.com/)
+26. [HUFFINGTON POST](http://www.huffingtonpost.com/)
+27. [INTERCEPT](https://firstlook.org/theintercept/)
+28. [JERUSALEM POST](http://www.jpost.com/)
+29. [LA DAILY NEWS](http://www.dailynewslosangeles.com/)
+30. [LA TIMES](http://www.latimes.com/)
+31. [MARKETWATCH](https://www.marketwatch.com/)
+32. [MEDIAITE](https://www.mediaite.com)
+33. [MOTHER JONES](http://www.motherjones.com/)
+34. [NATION](http://www.thenation.com/)
+35. [NATIONAL REVIEW](http://www.nationalreview.com/)
+36. [NBC NEWS](http://www.nbcnews.com/)
+37. [NEW REPUBLIC](http://www.thenewrepublic.com/)
+38. [NEW YORK](http://nymag.com/)
+39. [NY DAILY NEWS](http://www.nydailynews.com/)
+40. [NY POST](http://www.nypost.com/)
+41. [NY TIMES WIRE](http://www.nytimes.com/timeswire/)
+42. [NEW YORKER](http://www.newyorker.com/)
+43. [PEOPLE](http://www.newyorker.com/)
+44. [POLITICO](http://www.politico.com/)
+45. [REAL CLEAR POLITICS](http://realclearpolitics.com/)
+46. [REASON](https://reason.org/)
+47. [ROLLING STONE](http://www.rollingstone.com/)
+48. [SALON](http://www.salon.com/)
+49. [SAN FRAN CHRON](http://www.sfgate.com/chronicle/)
+50. [SEMAFOR](https://www.semafor.com/)
+51. [SMOKING GUN](http://thesmokinggun.com/)
+52. [TMZ](http://www.tmz.com/)
 
 ### UK News
-[UK] [BBC](www.bbc.com)
-
-[UK] [DAILY MAIL FEED](http://www.dailymail.co.uk/news/headlines/index.html)
-
-[UK] [DAILY MIRROR](http://www.mirror.co.uk/)
-
-[UK] [EXPRESS](http://www.express.co.uk/)
-
-[UK] [GUARDIAN](http://www.guardian.co.uk/world)
-
-[UK] [INDEPENDENT](http://www.independent.co.uk/)
-
-[UK] [METRO](https://metro.co.uk/)
-
-[UK] [SUN](http://www.thesun.co.uk/)
-
-[SKY NEWS LIVE](https://news.sky.com/watch-live)
+53. [BBC](www.bbc.com)
+54. [DAILY MAIL FEED](http://www.dailymail.co.uk/news/headlines/index.html)
+55. [DAILY MIRROR](http://www.mirror.co.uk/)
+56. [EXPRESS](http://www.express.co.uk/)
+57. [GUARDIAN](http://www.guardian.co.uk/world)
+58. [INDEPENDENT](http://www.independent.co.uk/)
+59. [METRO](https://metro.co.uk/)
+60. [SUN](http://www.thesun.co.uk/)
+61. [SKY NEWS LIVE](https://news.sky.com/watch-live)
 
 ### USA News
-[US NEWS](http://www.usnews.com/usnews/home.htm)
+62. [US NEWS](http://www.usnews.com/usnews/home.htm)
+63. [USA TODAY](http://www.usatoday.com/)
+64. [VANITY FAIR](http://www.vanityfair.com/)
+65. [VARIETY](http://www.variety.com/)
+66. [WALL STREET JOURNAL](http://online.wsj.com/home-page)
+67. [WASH EXAMINER](http://www.washingtonexaminer.com/)
+68. [WASH POST](http://www.washingtonpost.com/)
+69. [WASH TIMES](http://www.washingtontimes.com/)
 
-[USA TODAY](http://www.usatoday.com/)
+**News Agencies**
 
-[VANITY FAIR](http://www.vanityfair.com/)
-
-[VARIETY](http://www.variety.com/)
-
-[WALL STREET JOURNAL](http://online.wsj.com/home-page)
-
-[WASH EXAMINER](http://www.washingtonexaminer.com/)
-
-[WASH POST](http://www.washingtonpost.com/)
-
-[WASH TIMES](http://www.washingtontimes.com/)
-
-[AGENCE FRANCE-PRESSE](http://www.france24.com/en/timeline/global/)
-
-[AP TOP](https://apnews.com/)
-
-[AP RADIO](http://player.streamguys.com/apnews/sgplayer/player.php)
-
-[BLOOMBERG](http://www.bloomberg.com/?pid=20601087&sid=a0giIbmAzkss&pos=7)
-
-[DEUTSCHE PRESSE-AGENTUR](http://www.dpa-international.com/news/international/)
-
-[INTERFAX](http://www.interfax.com/news.asp)
-
-[ITAR-TASS](http://www.itar-tass.com/en/)
-
-[KYODO](https://english.kyodonews.net/)
-
-[MCCLATCHY [DC]](http://www.mcclatchydc.com/)
-
-[NHK](https://www3.nhk.or.jp/nhkworld/en/news/)
-
-[PRAVDA](http://www.pravdareport.com/world/)
-
-[PRESS TRUST INDIA](http://www.ptinews.com/)
-
-[REUTERS](http://www.reuters.com/)
-
-[REUTERS POLITICS](http://www.reuters.com/news/archive/politicsNews?date=today)
-
-[REUTERS WORLD](http://www.reuters.com/news/archive/worldNews?date=today)
-
-[XINHUA](http://www.xinhuanet.com/english/world/index.htm)
-
-[UPI](http://www.upi.com/NewsTrack/)
-
-[YONHAP](http://english.yonhapnews.co.kr/)
+70. [AGENCE FRANCE-PRESSE](http://www.france24.com/en/timeline/global/)
+71. [AP TOP](https://apnews.com/)
+72. [AP RADIO](http://player.streamguys.com/apnews/sgplayer/player.php)
+73. [BLOOMBERG](http://www.bloomberg.com/?pid=20601087&sid=a0giIbmAzkss&pos=7)
+74. [DEUTSCHE PRESSE-AGENTUR](http://www.dpa-international.com/news/international/)
+75. [INTERFAX](http://www.interfax.com/news.asp)
+76. [ITAR-TASS](http://www.itar-tass.com/en/)
+77. [KYODO](https://english.kyodonews.net/)
+78. [MCCLATCHY [DC]](http://www.mcclatchydc.com/)
+79. [NHK](https://www3.nhk.or.jp/nhkworld/en/news/)
+80. [PRAVDA](http://www.pravdareport.com/world/)
+81. [PRESS TRUST INDIA](http://www.ptinews.com/)
+82. [REUTERS](http://www.reuters.com/)
+83. [REUTERS POLITICS](http://www.reuters.com/news/archive/politicsNews?date=today)
+84. [REUTERS WORLD](http://www.reuters.com/news/archive/worldNews?date=today)
+85. [XINHUA](http://www.xinhuanet.com/english/world/index.htm)
+86. [UPI](http://www.upi.com/NewsTrack/)
+87. [YONHAP](http://english.yonhapnews.co.kr/)
