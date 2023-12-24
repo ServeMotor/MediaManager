@@ -11,3 +11,13 @@
  
 - Technology
   - [Wired](https://www.wired.com) #Consumer Technology
+  - [The Register](https://www.theregister.com/)
+  - [The Verge](https://www.theverge.com/)
+  - [Engadget](https://www.engadget.com/)
+
+
+- Cybersecurity
+  - [Bleeping Computer](https://www.bleepingcomputer.com/)
+  - [Veris Community Database](https://github.com/vz-risk/VCDB/issues)
+  - [ISACA](https://www.isaca.org/)
+  - [CISA.gov](https://www.cisa.gov/)
