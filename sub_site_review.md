@@ -184,11 +184,18 @@ Bloomberg
 
 CEDROM 			
 
-[Developer](https://developer.ft.com/portal/member/)
 Cengage 			
+
 EBSCO 			
+
 Dow Jones Factiva 			
+
 Gale 			
+
 LexisNexis 			
+
 NewsBank 			
+
 ProQuest 			
+
+[Developer](https://developer.ft.com/portal/member/)
