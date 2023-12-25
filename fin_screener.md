@@ -3,3 +3,5 @@ Here are financial stock and other instrument screeners where you can find marke
 [TradingView](https://www.tradingview.com)
 
 [Morningstar](https://www.morningstar.com/)
+
+[Finviz](https://finviz.com/)
