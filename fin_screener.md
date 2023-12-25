@@ -5,3 +5,5 @@ Here are financial stock and other instrument screeners where you can find marke
 [Morningstar](https://www.morningstar.com/)
 
 [Finviz](https://finviz.com/) - Subscription fee is Monthly $40 or Annually $299. Finviz has [article links](https://finviz.com/news.ashx) noted under News and Blogs.
+
+[finchat.io](https://finchat.io/dashboard/)
