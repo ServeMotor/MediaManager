@@ -21,3 +21,7 @@
   - [Veris Community Database](https://github.com/vz-risk/VCDB/issues)
   - [ISACA](https://www.isaca.org/)
   - [CISA.gov](https://www.cisa.gov/)
+
+- Financial
+  - [Crane's Data](https://cranedata.com/)
+  - [Municipal Market Analytics](https://www.mma-research.com/)
