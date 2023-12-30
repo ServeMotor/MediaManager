@@ -97,3 +97,6 @@ These are some of the links that have been listed on the [Drudge Report](https:/
 85. [XINHUA](http://www.xinhuanet.com/english/world/index.htm)
 86. [UPI](http://www.upi.com/NewsTrack/)
 87. [YONHAP](http://english.yonhapnews.co.kr/)
+
+**Other News Sites**
+89. [Haaretz](https://www.haaretz.com/)
