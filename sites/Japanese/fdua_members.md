@@ -377,44 +377,44 @@ freee株式会社
 
 ## 賛助会員
 
-デジタル庁
+[デジタル庁](https://www.digital.go.jp/)
 
-公益財団法人金融情報システムセンター
+[公益財団法人金融情報システムセンター](https://www.fisc.or.jp/)
 
-一般社団法人第二地方銀行協会
+[一般社団法人第二地方銀行協会](https://www.dainichiginkyo.or.jp/)
 
-一般社団法人ちいきん会
+[一般社団法人ちいきん会](https://note.com/chiikinkai/n/n28ea223318aa)
 
-FINOLAB
+[FINOLAB](https://finolab.tokyo/)
 
-上智大学理工学部情報理工学科林研究室
+[上智大学理工学部情報理工学科林研究室](https://pweb.cc.sophia.ac.jp/khayashi/lab.html)
 
-フィンテック養成コミュニティ
+[フィンテック養成コミュニティ](https://fintech-engineer.connpass.com/)
 
 GuardTech検討コミュニティ
 
-一般社団法人オルタナティブデータ推進協議会
+[一般社団法人オルタナティブデータ推進協議会](https://alternativedata.or.jp)
 
-熱い金融マン協会
+[熱い金融マン協会](https://atsukin.kinken.biz/)
 
-データ分析特化型学生団体 Data Science League
+[データ分析特化型学生団体 Data Science League](https://note.com/mamezou_info/n/n49bd7b62f49f)
 
-一般社団法人日本ディープラーニング協会
+[一般社団法人日本ディープラーニング協会](https://www.jdla.org/)
 
-独立行政法人住宅金融支援機構
+[独立行政法人住宅金融支援機構](https://www.jhf.go.jp/)
 
-SpecTech
+[SpecTech](https://note.com/tus_chatgpt/)
 
-一般社団法人全国労働金庫協会
+[一般社団法人全国労働金庫協会](https://all.rokin.or.jp/)
 
-一般社団法人不動産建設データ活用推進協会
+[一般社団法人不動産建設データ活用推進協会](https://www.pcdua.org/)
 
-学校法人関西大学
+[学校法人関西大学](https://www.kansai-u.ac.jp/ja/about/corporation/)
 
-株式会社グッドウェイ
+[株式会社グッドウェイ](https://goodway.co.jp/fip/htdocs/)
 
-株式会社日本政策金融公庫
+[株式会社日本政策金融公庫](https://www.jfc.go.jp/)
 
-損害保険料率算出機構
+[損害保険料率算出機構](https://www.giroj.or.jp/)
 
-東京大学データサイエンスティスト養成講座
+[東京大学データサイエンスティスト養成講座](https://tokyoix.com/)
