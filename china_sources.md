@@ -19,7 +19,7 @@ From Twitter Lists - [China News](https://twitter.com/i/lists/159279437567925043
 7. [Leo Lord-Jones](https://twitter.com/leolordjones) Senior Supervising Producer, Asia-Pacific for @WSJ
 in Singapore | Formerly, Asia Producer for @SkyNews in Beijing [Linkedin](https://www.linkedin.com/in/leolordjones/)
 8. [Vicky Xu / 许秀中](https://twitter.com/veryvickyxu) on a social media break
-9. [Shen Lu](https://twitter.com/shenlulushen) China tech & society @WSJ | tips/新闻线索: shen.lu@wsj.com / slwsj@proton.me / 📧 for Signal | 🐘: @shenlu@alive.bar #IStandWithEvan
+9. [Shen Lu](https://twitter.com/shenlulushen) China tech & society @WSJ | tips/新闻线索: shen.lu@wsj.com / slwsj@proton.me / 📧 for Signal | 🐘: @shenlu@alive.bar #IStandWithEvan [Linkedin](https://www.linkedin.com/in/shen-lu-journalist/)
 10. [Emily Feng 冯哲芸](https://twitter.com/EmilyZFeng) | Covering China, Taiwan, and beyond for @NPR. Also writing a book on Chinese identity for @CrownPublishing. 请联系我 efeng@npr.org
 11. [Muyi Xiao 肖慕漪](https://twitter.com/muyixiao) China reporter @nytimes Visual Investigations • Ex @chinafile Tencent News @reuters
 • 联系我 Email: muyi.xiao (at) http://nytimes.com • Signal: +1(929)466-6673
