@@ -11,9 +11,9 @@ The Economist
 From Twitter Lists
 
 1. [妈妈我没有做错 @mamaidonowrong](https://twitter.com/mamaidonowrong) Chinese lang.
-2. [The Wire China](@thewirechina) Covering China like no one else. Free Newsletter: http://thewirechina.com/newsletter Subscriptions: http://thewirechina.com/subscriptions
-3. [Emily Lau](@EmilyLauWH) Former Democratic Party member of the Hong Kong Legislative Council and former chairperson of the Democratic Party
-4. [SCS_Disputes](@SCS_Disputes) Seeking truth from facts. “Wherever law ends, tyranny begins” John Locke 1689
+2. [The Wire China](https://twitter.com/thewirechina) Covering China like no one else. Free Newsletter: http://thewirechina.com/newsletter Subscriptions: http://thewirechina.com/subscriptions
+3. [Emily Lau](https://twitter.com/EmilyLauWH) Former Democratic Party member of the Hong Kong Legislative Council and former chairperson of the Democratic Party
+4. [SCS_Disputes](https://twitter.com/SCS_Disputes) Seeking truth from facts. “Wherever law ends, tyranny begins” John Locke 1689
 5. [The China Project](@thechinaproj) We are a NYC-based independent media company focused on #China. We produce podcasts, newsletters, journalism, and live events to educate and inform.
 6. [ChinaPower](@ChinaPowerCSIS) Unpacking the complexity of China’s rise through objective analysis and data visualization. Follows, RTs ≠ endorsements.
 7. [Leo Lord-Jones](@leolordjones) Senior Supervising Producer, Asia-Pacific for @WSJ
