@@ -14,20 +14,20 @@ From Twitter Lists
 2. [The Wire China](https://twitter.com/thewirechina) Covering China like no one else. Free Newsletter: http://thewirechina.com/newsletter Subscriptions: http://thewirechina.com/subscriptions
 3. [Emily Lau](https://twitter.com/EmilyLauWH) Former Democratic Party member of the Hong Kong Legislative Council and former chairperson of the Democratic Party
 4. [SCS_Disputes](https://twitter.com/SCS_Disputes) Seeking truth from facts. “Wherever law ends, tyranny begins” John Locke 1689
-5. [The China Project](@thechinaproj) We are a NYC-based independent media company focused on #China. We produce podcasts, newsletters, journalism, and live events to educate and inform.
-6. [ChinaPower](@ChinaPowerCSIS) Unpacking the complexity of China’s rise through objective analysis and data visualization. Follows, RTs ≠ endorsements.
-7. [Leo Lord-Jones](@leolordjones) Senior Supervising Producer, Asia-Pacific for @WSJ
+5. [The China Project](https://twitter.com/thechinaproj) We are a NYC-based independent media company focused on #China. We produce podcasts, newsletters, journalism, and live events to educate and inform.
+6. [ChinaPower](https://twitter.com/ChinaPowerCSIS) Unpacking the complexity of China’s rise through objective analysis and data visualization. Follows, RTs ≠ endorsements.
+7. [Leo Lord-Jones](https://twitter.com/leolordjones) Senior Supervising Producer, Asia-Pacific for @WSJ
 in Singapore | Formerly, Asia Producer for @SkyNews in Beijing
-8. Vicky Xu / 许秀中 @veryvickyxu on a social media break
-9. Shen Lu @shenlulushen China tech & society @WSJ | tips/新闻线索: shen.lu@wsj.com / slwsj@proton.me / 📧 for Signal | 🐘: @shenlu@alive.bar #IStandWithEvan
-10. Emily Feng 冯哲芸 @EmilyZFeng | Covering China, Taiwan, and beyond for @NPR. Also writing a book on Chinese identity for @CrownPublishing. 请联系我 efeng@npr.org
-11. Muyi Xiao 肖慕漪 @muyixiao China reporter @nytimes Visual Investigations • Ex @chinafile Tencent News @reuters
+8. [Vicky Xu / 许秀中](https://twitter.com/veryvickyxu) on a social media break
+9. [Shen Lu](https://twitter.com/shenlulushen) China tech & society @WSJ | tips/新闻线索: shen.lu@wsj.com / slwsj@proton.me / 📧 for Signal | 🐘: @shenlu@alive.bar #IStandWithEvan
+10. [Emily Feng 冯哲芸](https://twitter.com/EmilyZFeng] | Covering China, Taiwan, and beyond for @NPR. Also writing a book on Chinese identity for @CrownPublishing. 请联系我 efeng@npr.org
+11. [Muyi Xiao 肖慕漪](https://twitter.com/muyixiao) China reporter @nytimes Visual Investigations • Ex @chinafile Tencent News @reuters
 • 联系我 Email: muyi.xiao (at) http://nytimes.com • Signal: +1(929)466-6673
-12. Jiang Xueqin @xueqinjiang Educator and Writer
-13. Nectar Gan @Nectar_Gan China reporter @cnni . Formerly @SCMPNews. Tips to nectar.gan@cnn.com
-14. Sinica Podcast @SinicaPodcast The Sinica Podcast: A weekly discussion of current affairs in China, hosted by @KaiserKuo and Jeremy @Goldkorn on @thechinaproj
-15. Lingling Wei 魏玲灵 @Lingling_Wei Super proud mama of an aspiring writer. @WSJ Chief China Correspondent. Coauthor w/@bobdavis187 of “Superpower Showdown."
-16. China Beige Book @ChinaBeigeBook CBB provides the world’s only large-scale, private data on the Chinese economy (RTs not necessarily endorsements).
+12. [Jiang Xueqin](https://twitter.com/xueqinjiang] Educator and Writer
+13. [Nectar Gan] @Nectar_Gan China reporter @cnni . Formerly @SCMPNews. Tips to nectar.gan@cnn.com
+14. [Sinica Podcast](https://twitter.com/SinicaPodcast) The Sinica Podcast: A weekly discussion of current affairs in China, hosted by @KaiserKuo and Jeremy @Goldkorn on @thechinaproj
+15. [Lingling Wei 魏玲灵](https://twitter.com/Lingling_Wei) Super proud mama of an aspiring writer. @WSJ Chief China Correspondent. Coauthor w/@bobdavis187 of “Superpower Showdown."
+16. [China Beige Book](https://twitter.com/ChinaBeigeBook) CBB provides the world’s only large-scale, private data on the Chinese economy (RTs not necessarily endorsements).
 17. Li Yuan袁莉 @LiYuan6 NYT Asia tech columnist. 不明白播客主持人 Views here are my own. 联系请用li.yuan @ http://nytimes.com或者 FreeFrom公匙npub1nc3azwxkfaj96n85sujpcvy5mmn72hm3rzxklqqaklmzrwlljrqsfgsyca
 18. Christian Shepherd @cdcshepherd Also goes by 马思潭 China correspondent @washingtonpost
 19. 华盛顿邮报记者 Sue-Lin Wong 黄淑琳 @suelinwong Southeast Asia correspondent @TheEconomist
