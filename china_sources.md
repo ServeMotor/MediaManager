@@ -38,13 +38,13 @@ in Singapore | Formerly, Asia Producer for @SkyNews in Beijing
 | @ReadingQuakers
 23. [Yangyang Cheng](https://twitter.com/yangyang_cheng) Research Scholar @YaleLawSch
 | Particle Physicist |✍️: @NYTimes @Guardian @TheNation @WIRED @LAReviewofBooks @VICE @TechReview + | 🐘: @yangyang_cheng@zirk.us
-24. [Amy Qin](https://twitter.com/amyyqin] National Correspondent for @NYTimes, covering Asian American communities. Past lives in Beijing, Taipei & Hong Kong. Email me: amy.qin@nytimes.com
+24. [Amy Qin](https://twitter.com/amyyqin) National Correspondent for @NYTimes, covering Asian American communities. Past lives in Beijing, Taipei & Hong Kong. Email me: amy.qin@nytimes.com
 25. [Caixin Global](https://twitter.com/caixin) Award-winning journalism from China's most respected newsroom. App: http://caixinglobal.com/app/
 26. [高大伟 David Cowhig](https://twitter.com/gaodawei) Retired US diplomat. My personal views. Resemblance to US policy entirely coincidental. Ham call WA1LBP 退休的美国外交官. 这里是我的个人意见与偏见，不代表任何一个人，政权，团体或者外星人背后所控制的傀儡。
 27. [Mary Gallagher](https://twitter.com/MaryGao) Director, International Institute and Professor of Political Science, the University of Michigan; former director, Lieberthal-Rogel Center for Chinese Studies
 28. [Victor Shih](https://twitter.com/vshih2) Director of 21st Century China Center and Ho Miu Lam Chair at GPS of UCSD. Expert of Chinese elite politics, economy, and finance. RT does not mean endorsement.
-29. [Xifan Yang 杨希璠](https://twitter.com/yangxifan Partly German brain, Hunan stomach @DIEZEIT
-30. [Eva Dou](https://twitter.com/evadou] @WashingtonPost tech policy reporter. Also working on a book about Huawei for @portfoliobooks. Detroiter, @Mizzou grad. eva.dou@washpost.com
+29. [Xifan Yang 杨希璠](https://twitter.com/yangxifan) Partly German brain, Hunan stomach @DIEZEIT
+30. [Eva Dou](https://twitter.com/evadou) @WashingtonPost tech policy reporter. Also working on a book about Huawei for @portfoliobooks. Detroiter, @Mizzou grad. eva.dou@washpost.com
 31. [Keith Zhai](https://twitter.com/KeithZhai) Once a Journalist
 32. [Lily Kuo](https://twitter.com/lilkuo) China bureau chief for @washingtonpost. Formerly Beijing bureau chief for @guardian. Previously @qz @qzafrica in Nairobi, Hong Kong, NYC. lily.kuo@washpost.com
 
