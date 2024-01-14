@@ -1,6 +1,6 @@
 ## List of Blogs, Sites and Sources
 
-Dated 12/26/2023
+Dated 1/13/2024
 
 [The East is Read](https://www.eastisread.com/p/chinas-local-govt-debt-in-2020-was)
 
@@ -10,7 +10,42 @@ The Economist
 
 From Twitter Lists
 
-[@Yang Yang Cheng](https://twitter.com/yangyang_cheng/status/1746282687675953601) | 
-
-[@Ai-Men Lau](https://twitter.com/yangyang_cheng/status/1746282687675953601)
+1. [妈妈我没有做错 @mamaidonowrong](https://twitter.com/mamaidonowrong) Chinese lang.
+2. [The Wire China](@thewirechina) Covering China like no one else. Free Newsletter: http://thewirechina.com/newsletter Subscriptions: http://thewirechina.com/subscriptions
+3. [Emily Lau](@EmilyLauWH) Former Democratic Party member of the Hong Kong Legislative Council and former chairperson of the Democratic Party
+4. [SCS_Disputes](@SCS_Disputes) Seeking truth from facts. “Wherever law ends, tyranny begins” John Locke 1689
+5. [The China Project](@thechinaproj) We are a NYC-based independent media company focused on #China. We produce podcasts, newsletters, journalism, and live events to educate and inform.
+6. [ChinaPower](@ChinaPowerCSIS) Unpacking the complexity of China’s rise through objective analysis and data visualization. Follows, RTs ≠ endorsements.
+7. [Leo Lord-Jones](@leolordjones) Senior Supervising Producer, Asia-Pacific for @WSJ
+in Singapore | Formerly, Asia Producer for @SkyNews in Beijing
+8. Vicky Xu / 许秀中 @veryvickyxu on a social media break
+9. Shen Lu @shenlulushen China tech & society @WSJ | tips/新闻线索: shen.lu@wsj.com / slwsj@proton.me / 📧 for Signal | 🐘: @shenlu@alive.bar #IStandWithEvan
+10. Emily Feng 冯哲芸 @EmilyZFeng | Covering China, Taiwan, and beyond for @NPR. Also writing a book on Chinese identity for @CrownPublishing. 请联系我 efeng@npr.org
+11. Muyi Xiao 肖慕漪 @muyixiao China reporter @nytimes Visual Investigations • Ex @chinafile Tencent News @reuters
+• 联系我 Email: muyi.xiao (at) http://nytimes.com • Signal: +1(929)466-6673
+12. Jiang Xueqin @xueqinjiang Educator and Writer
+13. Nectar Gan @Nectar_Gan China reporter @cnni . Formerly @SCMPNews. Tips to nectar.gan@cnn.com
+14. Sinica Podcast @SinicaPodcast The Sinica Podcast: A weekly discussion of current affairs in China, hosted by @KaiserKuo and Jeremy @Goldkorn on @thechinaproj
+15. Lingling Wei 魏玲灵 @Lingling_Wei Super proud mama of an aspiring writer. @WSJ Chief China Correspondent. Coauthor w/@bobdavis187 of “Superpower Showdown."
+16. China Beige Book @ChinaBeigeBook CBB provides the world’s only large-scale, private data on the Chinese economy (RTs not necessarily endorsements).
+17. Li Yuan袁莉 @LiYuan6 NYT Asia tech columnist. 不明白播客主持人 Views here are my own. 联系请用li.yuan @ http://nytimes.com或者 FreeFrom公匙npub1nc3azwxkfaj96n85sujpcvy5mmn72hm3rzxklqqaklmzrwlljrqsfgsyca
+18. Christian Shepherd @cdcshepherd Also goes by 马思潭 China correspondent @washingtonpost
+19. 华盛顿邮报记者 Sue-Lin Wong 黄淑琳 @suelinwong Southeast Asia correspondent @TheEconomist
+| Previously in China | Host of "The Prince", a podcast about Xi Jinping
+20. Mike Forsythe 傅才德 @PekingMike New York Times reporter. U.S. Navy veteran. Co-author of NYT bestseller "When McKinsey Comes to Town" Order here: http://lnk.to/McKinseyComesT…
+21. Eric Fish @ericfish85 Journalist, author. Mostly write on youth, protest, activism, politics, education related to China. Bylines in @ForeignPolicy @TheAtlantic @TIME @SCMPNews
+22. Yuan Yang @YuanfenYang Labour's parliamentary candidate for Earley and Woodley | former @FT journalist | forthcoming 📖 on social mobility | co-founder @RethinkEcon
+| @ReadingQuakers
+23. Yangyang Cheng @yangyang_cheng Research Scholar @YaleLawSch
+| Particle Physicist |✍️: @NYTimes @Guardian @TheNation @WIRED @LAReviewofBooks @VICE @TechReview + | 🐘: @yangyang_cheng@zirk.us
+24. Amy Qin @amyyqin National Correspondent for @NYTimes, covering Asian American communities. Past lives in Beijing, Taipei & Hong Kong. Email me: amy.qin@nytimes.com
+25. Caixin Global @caixin
+Award-winning journalism from China's most respected newsroom. App: http://caixinglobal.com/app/
+26. 高大伟 David Cowhig @gaodawei Retired US diplomat. My personal views. Resemblance to US policy entirely coincidental. Ham call WA1LBP 退休的美国外交官. 这里是我的个人意见与偏见，不代表任何一个人，政权，团体或者外星人背后所控制的傀儡。
+27. Mary Gallagher @MaryGao Director, International Institute and Professor of Political Science, the University of Michigan; former director, Lieberthal-Rogel Center for Chinese Studies
+28. Victor Shih @vshih2 Director of 21st Century China Center and Ho Miu Lam Chair at GPS of UCSD. Expert of Chinese elite politics, economy, and finance. RT does not mean endorsement.
+29. Xifan Yang 杨希璠 @yangxifan Partly German brain, Hunan stomach @DIEZEIT
+30. Eva Dou @evadou @WashingtonPost tech policy reporter. Also working on a book about Huawei for @portfoliobooks. Detroiter, @Mizzou grad. eva.dou@washpost.com
+31. Keith Zhai @KeithZhai Once a Journalist
+32. Lily Kuo @lilkuo China bureau chief for @washingtonpost. Formerly Beijing bureau chief for @guardian. Previously @qz @qzafrica in Nairobi, Hong Kong, NYC. lily.kuo@washpost.com
 
