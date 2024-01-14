@@ -8,16 +8,16 @@ The Economist
 
 [Chinas Quest to become a Robot Superpower](https://www.economist.com/china/2023/12/20/chinas-quest-to-become-a-robot-superpower)
 
-From Twitter Lists
+From Twitter Lists - [China News](https://twitter.com/i/lists/1592794375679250434) and combine with Linkedin or other Social Media
 
 1. [妈妈我没有做错 @mamaidonowrong](https://twitter.com/mamaidonowrong) Chinese lang.
-2. [The Wire China](https://twitter.com/thewirechina) Covering China like no one else. Free Newsletter: http://thewirechina.com/newsletter Subscriptions: http://thewirechina.com/subscriptions
-3. [Emily Lau](https://twitter.com/EmilyLauWH) Former Democratic Party member of the Hong Kong Legislative Council and former chairperson of the Democratic Party
+2. [The Wire China](https://twitter.com/thewirechina) Covering China like no one else. Free Newsletter: http://thewirechina.com/newsletter Subscriptions: http://thewirechina.com/subscriptions [Linkedin](https://www.linkedin.com/company/thewirechina/)
+3. [Emily Lau](https://twitter.com/EmilyLauWH) Former Democratic Party member of the Hong Kong Legislative Council and former chairperson of the Democratic Party [Linkedin](https://www.linkedin.com/in/emily-lau-b430a321/)
 4. [SCS_Disputes](https://twitter.com/SCS_Disputes) Seeking truth from facts. “Wherever law ends, tyranny begins” John Locke 1689
-5. [The China Project](https://twitter.com/thechinaproj) We are a NYC-based independent media company focused on #China. We produce podcasts, newsletters, journalism, and live events to educate and inform.
+5. [The China Project](https://twitter.com/thechinaproj) We are a NYC-based independent media company focused on #China. We produce podcasts, newsletters, journalism, and live events to educate and inform. [Linkedin](https://www.linkedin.com/company/thechinaproject/)
 6. [ChinaPower](https://twitter.com/ChinaPowerCSIS) Unpacking the complexity of China’s rise through objective analysis and data visualization. Follows, RTs ≠ endorsements.
 7. [Leo Lord-Jones](https://twitter.com/leolordjones) Senior Supervising Producer, Asia-Pacific for @WSJ
-in Singapore | Formerly, Asia Producer for @SkyNews in Beijing
+in Singapore | Formerly, Asia Producer for @SkyNews in Beijing [Linkedin](https://www.linkedin.com/in/leolordjones/)
 8. [Vicky Xu / 许秀中](https://twitter.com/veryvickyxu) on a social media break
 9. [Shen Lu](https://twitter.com/shenlulushen) China tech & society @WSJ | tips/新闻线索: shen.lu@wsj.com / slwsj@proton.me / 📧 for Signal | 🐘: @shenlu@alive.bar #IStandWithEvan
 10. [Emily Feng 冯哲芸](https://twitter.com/EmilyZFeng) | Covering China, Taiwan, and beyond for @NPR. Also writing a book on Chinese identity for @CrownPublishing. 请联系我 efeng@npr.org
