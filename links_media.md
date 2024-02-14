@@ -103,6 +103,6 @@ These are some of the links that have been listed on the [Drudge Report](https:/
 
 <html>
 <body>
-	<p>html</p><a target="_blank" href="https://www.theatlantic.com">THE ATLANTIC</a>
+	<p>html</p><a target="_blank" rel="noreferrer noopener" href="https://www.theatlantic.com">THE ATLANTIC</a>
 </body>
 </html>
