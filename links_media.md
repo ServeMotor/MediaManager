@@ -101,8 +101,3 @@ These are some of the links that have been listed on the [Drudge Report](https:/
 **Other News Sites**
 89. [Haaretz](https://www.haaretz.com/)
 
-<html>
-<body>
-	<p>html</p><a target="_blank" rel="noreferrer noopener" href="https://www.theatlantic.com">THE ATLANTIC</a>
-</body>
-</html>
