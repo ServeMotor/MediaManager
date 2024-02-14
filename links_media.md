@@ -4,7 +4,7 @@
 These are some of the links that have been listed on the [Drudge Report](https://www.drudgereport.com/), a daily political headline website in the US. I took out conservative news sources, but otherwise its a good selection of media sites. The links are in markdown first, and then html where noted.
 
 1. <a href="https://www.abcnews.com" target="_blank">ABC NEWS</a>
-2. [ATLANTIC](https://www.theatlantic.com) html version <a target="_blank" href="https://www.theatlantic.com">The Atlantic</a>
+2. [ATLANTIC](https://www.theatlantic.com) 
 3. [AXIOS](https://www.axios.com/)
 4. [BILLBOARD](https://www.billboard.com)
 5. [BOSTON GLOBE](http://www.boston.com)
@@ -100,3 +100,9 @@ These are some of the links that have been listed on the [Drudge Report](https:/
 
 **Other News Sites**
 89. [Haaretz](https://www.haaretz.com/)
+
+<html>
+<body>
+	<p>html</p><a target="_blank" href="https://www.theatlantic.com">THE ATLANTIC</a>
+</body>
+</html>
