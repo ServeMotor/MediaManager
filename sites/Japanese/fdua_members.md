@@ -1,8 +1,9 @@
-## メンバー企業
+## メンバー企業 Member Companies
 
-株式会社三井住友銀行
+If English not next to Japanese, then at bottom.
 
-株式会社三菱ＵＦＪ銀行
+1. 株式会社三井住友銀行 Sumitomo Mitsui Banking Corporation
+2. 株式会社三菱ＵＦＪ銀行 Mitsubishi UFJ Bank, Ltd.
 
 株式会社みずほ銀行
 
@@ -207,6 +208,211 @@ AIG損害保険株式会社
 株式会社日本総合研究所
 
 SBIリクイディティ・マーケット株式会社
+--
+
+Mizuho Bank, Ltd.
+
+Tokio Marine Holdings Co., Ltd.
+
+Nippon Life Insurance Company
+
+Sompo Japan Insurance Co., Ltd.
+
+Dai-ichi Life Insurance Co., Ltd.
+
+SBI Holdings Co., Ltd.
+
+Japan Digital Design Co., Ltd.
+
+Mizuho Daiichi Financial Technology
+
+Sumitomo Mitsui Trust Bank, Ltd.
+
+Sumitomo Mitsui Card Co., Ltd.
+
+Trust Base Co., Ltd.
+
+Mitsui Sumitomo Insurance Co., Ltd.
+
+Mitsubishi UFJ Trust and Banking Corporation
+
+SBI Shinsei Bank
+
+Mitsubishi HC Capital Co., Ltd.
+
+Seven Bank Co., Ltd.
+
+Meiji Yasuda Life Insurance Company
+
+Acom Co., Ltd.
+
+Nissay Information Technology Co., Ltd.
+
+Aioi Nissay Dowa Insurance Co., Ltd.
+
+Mizuho Securities Co., Ltd.
+
+Yokohama Bank, Ltd.
+
+Sanin Godo Bank, Ltd.
+
+Mitsubishi UFJ Trust System Co., Ltd.
+
+Rakuten Bank, Ltd.
+
+Hachijuni Bank, Ltd.
+
+Japan Housing Loan Co., Ltd.
+
+Kochi Bank, Ltd.
+
+Aozora Investment Trust Co., Ltd.
+
+Ashikaga Bank Co., Ltd.
+
+The 77 Bank, Ltd.
+
+Shinkin Central Bank
+
+Mitsubishi UFJ Morgan Stanley Securities Co., Ltd.
+
+Resona Holdings Co., Ltd.
+
+Yamanashi Chuo Bank, Ltd.
+
+Sony Financial Group Co., Ltd.
+
+Orient Corporation Co., Ltd.
+
+Sendai Bank, Ltd.
+
+Aozora Bank, Ltd.
+
+Towa Bank, Ltd.
+
+Osaka City Shinkin Bank
+
+Norinchukin Bank
+
+SBI Securities Co., Ltd.
+
+Shizuoka Bank, Ltd.
+
+Shiga Bank, Ltd.
+
+Hyakugo Bank, Ltd.
+
+Iyo Bank Co., Ltd.
+
+Tama Shinkin Bank
+
+Sumitomo Life Insurance Company
+
+LINE Credit Co., Ltd.
+
+Miyagi Daiichi Shinkin Bank
+
+Tokyo Star Bank, Ltd.
+
+Sompo Japan DC Securities Co., Ltd.
+
+Kiyo Bank Co., Ltd.
+
+Keiyo Bank, Ltd.
+
+Joyo Bank Co., Ltd.
+
+Yamagata Bank, Ltd.
+
+Kyoto Bank, Ltd.
+
+Daiwa Securities Co., Ltd.
+
+SBI General Insurance Co., Ltd.
+
+Rakuten Securities Co., Ltd.
+
+Chiba Bank, Ltd.
+
+Toho Bank, Ltd.
+
+Akita Bank, Ltd.
+
+Shinsei Financial Co., Ltd.
+
+Credit Saison Co., Ltd.
+
+Sumitomo Mitsui Finance & Lease Co., Ltd.
+
+SMBC Nikko Securities Co., Ltd.
+
+Sony Bank Corporation
+
+Tokio Marine & Nichido Systems Co., Ltd.
+
+JCB Co., Ltd.
+
+Ogaki Kyoritsu Bank, Ltd.
+
+Tokio Marine & Nichido Anshin Life Insurance Co., Ltd.
+
+Chikuho Bank, Ltd.
+
+SBI Financial Economics Research Institute Co., Ltd.
+
+Mitsui Sumitomo Aioi Life Insurance Co., Ltd.
+
+Kirayaka Bank Co., Ltd.
+
+Kyoto Chuo Shinkin Bank
+
+Japan Post Insurance Co., Ltd.
+
+Japan Custody Bank, Ltd.
+
+JAL Card Co., Ltd.
+
+Mitsubishi UFJ Nicos Co., Ltd.
+
+Kitanihon Bank, Ltd.
+
+GMO Aozora Net Bank, Ltd.
+
+NEC Capital Solutions Co., Ltd.
+
+AIG General Insurance Co., Ltd.
+
+Mitsubishi UFJ Asset Management Co., Ltd.
+
+Pocket Card Co., Ltd.
+
+Aflac Life Insurance Co., Ltd.
+
+Mitsubishi UFJ Trust Investment Engineering Research Institute
+
+Tochigi Bank, Ltd.
+
+Hokkoku Bank, Ltd.
+
+Japan Master Trust Bank Co., Ltd.
+
+Nomura Holdings Co., Ltd.
+
+Mizuho Trust and Banking Co., Ltd.
+
+Fincross Digital Co., Ltd.
+
+Shikoku Bank, Ltd.
+
+Ueda Yagi Tanshi Co., Ltd.
+
+Fukui Bank, Ltd.
+
+View Card Co., Ltd.
+
+Japan Research Institute Co., Ltd.
+
+SBI Liquidity Market Co., Ltd.
 
 ## 特別会員
 
