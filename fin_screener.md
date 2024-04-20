@@ -7,5 +7,6 @@ Here are financial stock and other instrument screeners where you can find marke
 4. [finchat.io](https://finchat.io/dashboard/)
 5. [FIntel](https://fintel.io/)
 
-## Financial News
+## Financial News & Electronic Trading
 1. [Alternative Fund Insight](https://alternativefundinsight.com/)
+2. [JP Morgan](https://www.jpmorgan.com/markets/etrading-trends#trading)
