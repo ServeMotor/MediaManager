@@ -6,6 +6,7 @@ Here are financial stock and other instrument screeners where you can find marke
 3. [Finviz](https://finviz.com/) - Subscription fee is Monthly $40 or Annually $299. Finviz has [article links](https://finviz.com/news.ashx) noted under News and Blogs.
 4. [finchat.io](https://finchat.io/dashboard/)
 5. [FIntel](https://fintel.io/)
+6. [SocGen Trend Report](https://cib.societegenerale.com/fileadmin/indices_feeds/ti_screen/index.html)
 
 ## Financial News & Electronic Trading
 1. [Alternative Fund Insight](https://alternativefundinsight.com/)
