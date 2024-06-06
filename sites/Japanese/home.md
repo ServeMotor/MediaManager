@@ -40,3 +40,25 @@ Financial Associations in Japan (in Japanese)
 11. Nihon Nogyo Shinbun
 12. The Suisan Times
 
+## Tabloids
+
+1. Nikkan Gendai
+2. Yukan Fuji
+
+## Sports papers
+1. Chukyo Sports
+2. Chunichi Sports
+3. Daily Sports
+4. Doshin Sports
+5. Kyūshū Sports
+6. Nikkan Sports
+7. Nishinippon Sports
+8. Osaka Sports
+9. Sankei Sports
+10. Sports Hochi (formerly the Hochi Shimbun)
+11. Sports Nippon
+12. Tokyo Chunichi Sports
+13. Tokyo Sports
+
+(from Wikipedia)
+
