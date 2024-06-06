@@ -60,5 +60,11 @@ Financial Associations in Japan (in Japanese)
 12. Tokyo Chunichi Sports
 13. Tokyo Sports
 
+## Wire services
+
+1. Jiji Press (時事通信).
+2. Kyodo News (共同通信).
+3. Radio Press (ラヂオプレス)
+    
 (from Wikipedia)
 
