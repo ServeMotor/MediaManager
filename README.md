@@ -1,22 +1,9 @@
 # MediaManager
 
-This is a project to assess how organizations manage online news subscriptions for their users. It is just lists of links for sites, but these can be used to do research on how media companies market their content via subscriptions, api and other methods to drive revenue.
+I changed the focus to putting together mosaics of different information from content to better get information on a topic of interest. The project will still focus on content sources, and trying to pair them or group them so information can be compared and contrasted. The idea is to help drive insights on a particular topic.
 
-MediaManager is a collection of Markdown pages with links which can be used for online research.
+MediaManager is a collection of Markdown pages with links to news or information which can be used for online research.
 
-Starting research on tools for managing online news sources. As an example of a financial news and trading terminal, "...the Bloomberg Terminal carries more than 1,000 news sources in 30+ languages globally and provides a powerful search engine to capture content from 90,000 web sources and social media."
+ As an example of data aggregation as done by an organization, which could be one of the sources a user reads, "...the Bloomberg Terminal carries more than 1,000 news sources in 30+ languages globally and provides a powerful search engine to capture content from 90,000 web sources and social media." An individual user might not read or consume even a tenth of 1% of those sources.
 
-## Example of a Digital Content Management company
-Company : Ebsco 
-URL: https://www.ebsco.com/about
 
-## Example of a University Library
-UK University Library
-Lancaster University (Youtube) https://www.youtube.com/watch?v=w35A8AfBfRM
-
-## Example of a Digital Library
-UK Organization
-British Council (Youtube) https://www.youtube.com/watch?v=2QU-ugS87r8
-
-## Social Media
-On X, formerly known as Twitter, there are writers and sources. [@federalreserve](https://twitter.com/federalreserve) for US economy events. 
