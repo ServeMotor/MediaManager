@@ -6,4 +6,4 @@ MediaManager is a collection of Markdown pages with links to news or information
 
  As an example of data aggregation as done by an organization, which could be one of the sources a user reads, "...the Bloomberg Terminal carries more than 1,000 news sources in 30+ languages globally and provides a powerful search engine to capture content from 90,000 web sources and social media." An individual user might not read or consume even a tenth of 1% of those sources.
 
-On another repo, [Fin](./in), I have a folder called urlbuilder where I put links to different content in the Financial Times. 
+On another repo, [Fin](https://www.github.com/ServeMotor/fin), I have a folder called urlbuilder where I put links to different content in the Financial Times. 
