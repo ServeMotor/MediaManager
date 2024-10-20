@@ -23,7 +23,7 @@ These are some of the links that have been listed on the [Drudge Report](https:/
 18. [DEADLINE HOLLYWOOD](http://www.deadline.com/hollywood/)
 19. [E!](http://www.eonline.com/index.jsp)
 20. [ENT WEEKLY](http://www.ew.com/ew/)
-21. [FINANCIAL TIMES](https://www.ft.com)
+21. [FINANCIAL TIMES](https://www.ft.com) - urlbuilder at fin repo.
 22. [FIVETHIRTYEIGHT](https://fivethirtyeight.com/)
 23. [FORBES](http://www.forbes.com/)
 24. [HILL JUST IN](http://thehill.com/news)
