@@ -1,24 +1,30 @@
 # MediaManager
 
-I changed the focus to putting together mosaics of different information from content to better get information on a topic of interest. The project will still focus on content sources, and trying to pair them or group them so information can be compared and contrasted. The idea is to help drive insights on a particular topic.
+Update 10/29/2024
 
-MediaManager is a collection of Markdown pages with links to news or information which can be used for online research.
+MediaManager is a collection of Markdown pages with links to news or information which can be used for online research. It serves as the basis for [audiologiks.com](https://www.audiologiks.com).
 
- As an example of data aggregation as done by an organization, which could be one of the sources a user reads, "...the Bloomberg Terminal carries more than 1,000 news sources in 30+ languages globally and provides a powerful search engine to capture content from 90,000 web sources and social media." An individual user might not read or consume even a tenth of 1% of those sources.
+
+Site Index
+--
+1. *china_sources.md* - Looking at X (formerly twitter) and other social media sites to find writers on China's politics, economy and business.
+	
+2. *fin_screener.md* - These are screener apps that present financial data and allow the user to filter and organize financial data by different categories, tags and other attributes.
+	
+3. *links_media.md* - A list of English-language (and some other language) media organizations with online links that are featured on the US politics website, The Drudge Report. These would capture a variety of views and subjects, with different online audiences.
+
+4. *news_aggregators.md* - Two examples of online news aggregators, Google News and Yahoo News. These aggregate and display headlines on different topics and can be filtered, in Google's case, by language and country.
+
+5. *other_media.md* - Examples of English-language US media websites in specialist areas, including Investigative, Business, Technology, Cybersecurity and Financial News.
+	
+6. *sub_site_review.md* - Organizational subscriber numbers for The Financial Times and the Wall Street Journal, along with partner organizations.
+
+7. app - a folder to put content for the 10-11 media sources used for RSS feeds on [audiologiks.com](https://www.audiologiks.com)
+
+8. lang - Other language versions can be shared here, though in stub form.
 
 On another repo, [Fin](https://www.github.com/ServeMotor/fin/sources/research/ftsub/tools), I have a folder called urlbuilder where I put links to different content in the Financial Times. 
-
-On urlbuilder, I put some investment bank websites as well. 
 
 ** Disclaimer **
 
 Data can be inaccurate or out of date. Due to errors in the source or the passage of time, details might change or be in error. Where possible sources and links to sources are provided but these links might be out of date and not lead to the original page. Verification should be done, and this data is just for saving time where possible, or discovering other utility for users interested in the data. The repo maintainer takes no responsibility for the accuracy of the underlying data or the links contained so everything should be checked prior to cloning or afterwards. Any comments can be sent to support@audiologiks.com or tickets raised via https://audiologiks.zendesk.com/hc/en-us. No guarantee on timely updates or action taken as a result of notifications regarding data accuracy.
-
---
-
-All the media sites and urls are public and current as of 10/21/2024. For a private project, I am reading 10 news sources/websites with up to 1,000 - 2,000 articles weekly. I will put together some taxonomy of filter terms and tags for news articles. 
-
-Possible uses for news site url tagging, lists and article metadata are :
-- in searches by individuals and organizations for information on present and future economic and finance trends. 
-- for people with job roles on identifying market or industry trends in business.
-- for job seekers 
