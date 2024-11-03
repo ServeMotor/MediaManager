@@ -1,8 +1,12 @@
 # MediaManager
 
-Update 10/29/2024
+Update 11/4/2024
 
-MediaManager is a collection of Markdown pages with links to news or information which can be used for online research. It serves as the basis for [audiologiks.com](https://www.audiologiks.com).
+MediaManager is for users to manage links to content in media sites in English and Japanese, including RSS feeds to article content. It includes snapshots of the website structure for news media websites, including the Financial Times so users can create their own direct links to content instead of going through the front pages for the news websites. 
+
+Japanese content is created by translating the English language content via Google Translate or Deepl.
+
+Google tools are used to filter the content from media websites by importing RSS feeds into Google Sheets via functions and scripting tools.
 
 
 Site Index
@@ -19,7 +23,7 @@ Site Index
 	
 6. *sub_site_review.md* - Organizational subscriber numbers for The Financial Times and the Wall Street Journal, along with partner organizations.
 
-7. app - a folder to put content for the 10-11 media sources used for RSS feeds on [audiologiks.com](https://www.audiologiks.com)
+7. app - a folder to put content for the 10-11 media sources used for RSS feeds.
 
 8. lang - Other language versions can be shared here, though in stub form.
 
