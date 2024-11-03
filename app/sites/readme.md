@@ -1,7 +1,7 @@
+readme
+--
 
-### App
-
-This is the readme for pages where rss feeds are shared from the below sources. The sources are in English and Japanese, and this is meant to explore ways to process information and make connections among different pieces of data. Users should go directly to the websites to check if the RSS feeds are still valid.
+In the sites/ folder, I will put a page for each website to track the RSS feeds, xml, url patterns and site structure documents.
 
 ### Websites
 
@@ -17,8 +17,17 @@ This is the readme for pages where rss feeds are shared from the below sources. 
 10. [Reuters](https://www.reuters.com) [Japanese version also available](https://jp.reuters.com/)
 11. [Yahoo Japan](https://news.yahoo.co.jp) - Japanese
 
+### Folders
 
-### RSS Feeds
-
-RSS feeds are used to share the news articles from different media sources. 
+1. nyt/
+2. wpost/
+3. ft/
+4. wsj/
+5. bbg/
+6. yah/
+7. asa/
+8. nik/
+9. econ/
+10. reu/
+11. yahj/
 
