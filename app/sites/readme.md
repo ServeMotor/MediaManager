@@ -5,9 +5,9 @@ In the sites/ folder, I will put a page for each website to track the RSS feeds,
 
 ### Websites
 
-1. [The New York Times](https://www.nyt.com)
-2. [Washington Post](https://www.wapo.com)
-3. [The Financial Times](https://www.ft.com)
+1. [The New York Times](https://www.nyt.com) - [RSS Feeds](https://www.nytimes.com/rss) - [RSS Terms & Conditions](https://static01.nyt.com/services/xml/rss/termsconditions.html)
+2. [Washington Post](https://www.wapo.com) - [RSS Feeds](https://www.washingtonpost.com/discussions/2018/10/12/washington-post-rss-feeds/) - [RSS Terms & Conditions](https://www.washingtonpost.com/discussions/2021/01/01/rss-terms-service/)
+3. [The Financial Times](https://www.ft.com) - [RSS Feed Example](https://www.ft.com/africa?format=rss) - [Terms & Conditions](https://help.ft.com/legal-privacy/terms-and-conditions/)
 4. [The Wall Street Journal](https://www.wsj.com) [Japanese version also available](https://jp.wsj.com/)
 5. [Bloomberg News](https://www.bloomberg.com) [Japanese version also available](https://www.bloomberg.co.jp)
 6. [Yahoo Finance](https://news.yahoo.com)
@@ -19,7 +19,7 @@ In the sites/ folder, I will put a page for each website to track the RSS feeds,
 
 ### Folders
 
-1. nyt/
+1. nyt/ - started 
 2. wpost/
 3. ft/
 4. wsj/
