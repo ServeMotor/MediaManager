@@ -1,6 +1,6 @@
 # MediaManager
 
-Update 11/4/2024
+Update 2/1/2025
 
 MediaManager is for users to manage links to content in media sites in English and Japanese, including RSS feeds to article content. It includes snapshots of the website structure for news media websites, including the Financial Times so users can create their own direct links to content instead of going through the front pages for the news websites. 
 

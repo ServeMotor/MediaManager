@@ -1,56 +1,69 @@
 washington post rss
 --
+As of 2/2/2025
 
 https://www.washingtonpost.com/discussions/2018/10/12/washington-post-rss-feeds/
 
-The Washington Post provides the feeds available below. When you subscribe to an RSS feed, you agree to our RSS Terms of Service .
+The Washington Post provides the feeds available below. When you subscribe to an RSS feed, you agree to our RSS Terms of Service. 
 
-Politics
+## Politics
 
-    The Fact Checker
-    The Fix
+1. The Fact Checker http://feeds.washingtonpost.com/rss/rss_fact-checker
+2. The Fix http://feeds.washingtonpost.com/rss/rss_the-fix
 
-Opinions
+## Opinions
 
-    Alexandra Petri
-    Erik Wemple
-    Greg Sargent
-    Catherine Rampell
-    Jennifer Rubin
+3. Alexandra Petri http://feeds.washingtonpost.com/rss/rss_compost
+4. Erik Wemple http://feeds.washingtonpost.com/rss/rss_erik-wemple
+5. Catherine Rampell http://feeds.washingtonpost.com/rss/rss_rampage
+6. George Will https://www.washingtonpost.com/arcio/rss/author/George%20F%20-Will/
 
-Local
+## Local
 
-    Capital Weather Gang
-    Inspired Life
-    Retropolis
+7. Capital Weather Gang http://feeds.washingtonpost.com/rss/rss_capital-weather-gang
+8. Inspired Life http://feeds.washingtonpost.com/rss/national/inspired-life
+9. Retropolis https://www.washingtonpost.com/arcio/rss/category/history/
 
-Sports
+## Sports 
 
-Blogs and Columns
+10. http://feeds.washingtonpost.com/rss/sports
 
-    High School Sports
-    DC Sports Bog
-    Maryland Terrapins
-    Soccer
-    Washington Commanders
-    Washington Capitals
-    Washington Nationals
-    Washington Wizards
+## Blogs and Columns
 
-Technology
+11. http://feeds.washingtonpost.com/rss/sports/blogs-columns
 
-National
+12. High School Sports http://feeds.washingtonpost.com/rss/rss_recruiting-insider
+13. DC Sports Bog http://feeds.washingtonpost.com/rss/rss_dc-sports-bog
+14. Maryland Terrapins http://feeds.washingtonpost.com/rss/rss_terrapins-insider
+15. Soccer http://feeds.washingtonpost.com/rss/rss_soccer-insider
+16. Washington Commanders http://feeds.washingtonpost.com/rss/rss_football-insider
+17. Washington Capitals http://feeds.washingtonpost.com/rss/rss_capitals-insider
+18. Washington Nationals http://feeds.washingtonpost.com/rss/rss_nationals-journal
+19. Washington Wizards http://feeds.washingtonpost.com/rss/rss_wizards-insider
 
-    Innovations
-    Morning Mix
+## Technology
 
-World
+20. 
 
-Business
+## National
 
-Lifestyle
+20. Innovations
+21. Morning Mix
 
-Entertainment
+## World
+
+22. 
+
+## Business
+
+23. 
+
+## Lifestyle
+
+24. 
+
+
+## Entertainment
 
     Going Out Guide
 
