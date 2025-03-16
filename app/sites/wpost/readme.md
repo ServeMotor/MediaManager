@@ -43,29 +43,30 @@ The Washington Post provides the feeds available below. When you subscribe to an
 
 ## Technology
 
-20. 
+20. http://feeds.washingtonpost.com/rss/business/technology
 
 ## National
 
-20. Innovations
-21. Morning Mix
+21. http://feeds.washingtonpost.com/rss/national
 
 ## World
 
-22. 
+22. http://feeds.washingtonpost.com/rss/world
 
 ## Business
 
-23. 
+23. http://feeds.washingtonpost.com/rss/business
 
 ## Lifestyle
 
-24. 
+24. http://feeds.washingtonpost.com/rss/lifestyle
 
 
 ## Entertainment
 
-    Going Out Guide
+25. http://feeds.washingtonpost.com/rss/entertainment
+
+26. Going Out Guide http://feeds.washingtonpost.com/rss/rss_going-out-gurus
 
 ## RSS Terms of Service
 
