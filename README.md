@@ -1,6 +1,8 @@
 # MediaManager
 
-Update 3/14/2025
+Update 10/21/2025
+
+Adding Gamification topics and ideas to this. Create folders to store ideas for games involving topics in the news.
 
 MediaManager is for users to manage links to content in media sites in English and Japanese, including RSS feeds to article content. It includes snapshots of the website structure for news media websites, including the Financial Times so users can create their own direct links to content instead of going through the front pages for the news websites. 
 
@@ -19,7 +21,7 @@ Site Index
 
 4. *other_media.md* - Examples of English-language US media websites in specialist areas, including Investigative, Business, Technology, Cybersecurity and Financial News.
 
-5. app - A folder to put content for the 10-11 media sources used for RSS feeds.
+5. app - A folder to put content for the 10-11 media sources used for RSS feeds. *Add game elements here*
 
 6. ja- The Japanese language version
 
