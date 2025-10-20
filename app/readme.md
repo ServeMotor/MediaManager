@@ -3,6 +3,10 @@
 
 This is the readme for pages where rss feeds are shared from the below sources. The sources are in English and Japanese, and this is meant to explore ways to process information and make connections among different pieces of data. Users should go directly to the websites to check if the RSS feeds are still valid.
 
+### Games
+
+Creating simple games, or gamifying tasks around reading the news, can help users get value out of consuming news and applying it to their work.
+
 ### Websites
 
 1. [The New York Times](https://www.nyt.com)
