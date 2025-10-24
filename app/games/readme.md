@@ -16,5 +16,31 @@ Below will be ideas on creating physical games, as well as digital games using n
 6. What could be the common point between two articles?
 7. What is the difference between News and Opinion?
 
+### Questions for the Games
+
+What's the goal of the game?
+
+Who will play the game?
+
+How long will it take to play?
+
+Is it Interactive?
+
+What are the rules?
+
+What skills does it require?
+
+Is it a team game?
+
+Are there any tools or props for the game?
+
+How do you win?
+
+What makes it fun?
+
+
+
+
+
 
 
