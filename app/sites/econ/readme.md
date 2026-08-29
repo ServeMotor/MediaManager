@@ -73,6 +73,24 @@ portfolio of nearly 30 titles"	https://www.economist.com/britain/2026/08/27/the-
 2. Britain needs better billionaires	Mike Ashley is not an aberration of British capitalism. He is the norm 	https://www.economist.com/britain/2026/08/27/britain-needs-better-billionaires	ce1a1d6f-440f-43de-a8b8-2610227d7145	Thu, 27 Aug 2026 14:02:18 +0000
 3. Harry and Meghan are ghastly and back in Britain. Good	Britain needs something to cheer it up. This will do	https://www.economist.com/britain/2026/08/27/harry-and-meghan-are-ghastly-and-back-in-britain-good	7bd49ed0-4673-41ce-8654-181177f8e9ee	Thu, 27 Aug 2026 14:02:18 +0000
 
+## Weekly Edition
+
+The URL for the weekly edition is structured like this https://www.economist.com/weeklyedition/2026-08-29
+
+The Saturday is the publishing date. 
+
+## Search 
+
+The URL for the search is structured like this https://www.economist.com/search?q=
+
+Google Site Search
+
+russia site search: www.economist.com
+
+The digital archive goes back to 1997. 
+
+
+
 
 
 
