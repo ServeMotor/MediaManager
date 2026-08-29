@@ -1,4 +1,71 @@
-financial times web structure
+
+## Overview 
+
+This is an overview of the links, RSS feeds and Google Apps script available to pull FT.com Headlines.
+
+An example is posted here of the RSS Feeds in a spreadsheet. Updated with new script after reviewing with Google Gemini.
+
+https://sites.google.com/view/markets-infrastructure/financial-media/financial-times
+
+## Google Apps Script (update 8/28/2026)
+
+Separate file included. It is a google script that accesses the below xml file. 
+
+https://www.ft.com/sitemaps/news.xml
+
+
+## Example of Headlines 8/29/2026
+
+Headlines printed in a Google Sheets
+
+**URL	Title	Publication Date**
+
+1. https://www.ft.com/content/7fb4b375-f858-4a79-8dd5-9e21c223078b	‘In a flash, everything was gone’: Nepal rushes to rescue flood survivors	2026-08-29T05:09:52.419Z
+2. https://www.ft.com/content/039daf30-d3e4-4c97-b92d-6888874f1df9	Frieze Seoul 2026	2026-08-29T04:01:10.024Z
+3. https://www.ft.com/content/359d4ea5-59b6-425f-ac66-c9836cec04f9	Glencore threatened with $1.4bn lawsuit from embattled trader Radiant  	2026-08-29T04:00:40.639Z
+4. https://www.ft.com/content/ba4b940e-4a44-473b-9846-eaba9434b65f	Risk of a new age of financial repression is rising	2026-08-29T04:00:40.637Z 
+
+
+### Google Apps Features
+
+*Overview*
+
+Project details
+
+Deployments
+
+Health
+
+Project OAuth Scopes
+
+*Editor*
+
+Files
+
+Libraries
+
+Services
+
+ - Actual Script
+
+*Project History*
+
+- History of changes to the project
+
+*Trigger*
+
+- When to start and run the apps script either by action or by time
+
+*Executions*
+
+When the app was run and the result of the script running
+
+* Project Settings*
+
+- Settings for the projects
+
+
+Financial Times Web Structure
 --
 
 domains and subdomains
@@ -6,7 +73,7 @@ domains and subdomains
 Below are event domains and subdomains for the FT, some sponsored by corporations and others for FT events around certain themes. Not all will stay active, but can be checked for interesting content if they are live.
 
 
-#	Hostname
+##	Hostnames
 		1	ft.com
 		2	smg2021.ft.com
 		3	channels.ft.com
@@ -138,5 +205,9 @@ Topics and article Categories - Examples
 12. https://www.ft.com/africa	Africa Financial Times
 13. https://www.ft.com/asia-pacific	Asia-Pacific Financial Times
 14. https://www.ft.com/emerging-markets	Emerging markets Financial Times
+
+## Google Search
+
+Example is site search ft.com russia
 
 
