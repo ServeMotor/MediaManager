@@ -33,17 +33,29 @@ Headlines printed in a Google Sheets
 
 Project details
 
+Deployments
+
+Health
+
+Project OAuth Scopes
+
 *Editor*
 
-Actual Script
+Files
+
+Libraries
+
+Services
+
+ - Actual Script
 
 *Project History*
 
-History of changes to the project
+- History of changes to the project
 
 *Trigger*
 
-When to start and run the apps script either by action or by time
+- When to start and run the apps script either by action or by time
 
 *Executions*
 
@@ -51,7 +63,7 @@ When the app was run and the result of the script running
 
 * Project Settings*
 
-Settings for the projects
+- Settings for the projects
 
 
 
